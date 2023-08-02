@@ -8,8 +8,8 @@ If the temperature is less than 16 degree celsius than the background will be ch
 # Screenshots
 
 
+https://github.com/om-3004/Weather-App-React/assets/76418145/4db157f6-6dd5-46ed-8c5e-53e7b81d3e1a
 
-https://github.com/om-3004/Weather-App-React/assets/76418145/231fb79f-58d5-420b-9bd6-102793e130cf
-![ss_weather](https://github.com/om-3004/Weather-App-React/assets/76418145/a24a7cab-6328-411e-8962-dae9b9d2ec39)
 
 ![ss-1](https://github.com/om-3004/Weather-App-React/assets/76418145/e4f4db10-273f-45a7-be7a-e0e483ab5f89)
+![ss-2](https://github.com/om-3004/Weather-App-React/assets/76418145/3d27b74e-ccad-4e58-bbc0-b6dd86d36185)
